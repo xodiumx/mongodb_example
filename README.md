@@ -16,6 +16,6 @@ docker-compose up -d
 pip install -r requirements.txt
 ```
 
-*Use the code samples in the start and crud directories*
+*Use the code samples in the `start` and `crud` directories*
 
 ### admin panel endpoint - `localhost:8081`
